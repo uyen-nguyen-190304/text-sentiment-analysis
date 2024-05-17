@@ -69,10 +69,10 @@ jupyter notebook sentiment_analysis.ipynb
    eval_acc, eval_loss = evaluate(model, criterion, valid_dataloader)
    ```
 
-## **IV. Conclusion**
+## **IX. Conclusion**
 The neural network model showed a marginally better performance compared to the Naive Bayes classifier. Future improvements could include experimenting with more advanced models, utilizing pre-trained embeddings, and performing hyperparameter tuning to enhance the model's accuracy further.
 
-## **XI. Dependencies**
+## **X. Dependencies**
 - NumPy
 - Pandas
 - Matplotlib
@@ -86,6 +86,6 @@ Install the dependencies using:
 pip install -r requirements.txt
 ```
 
-## **X. Contact**
+## **XI. Contact**
 For any questions or issues, please contact Uyen Nguyen via [nguyen_u1@denison.edu](mailto:nguyen_u1@denison.edu).
 
